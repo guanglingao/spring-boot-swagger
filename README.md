@@ -16,7 +16,7 @@
   ``````
   package com.zhisland.fourd;  
   
-  import com.zhisland.swagger.EnableSwagger;  
+  import EnableSwagger;  
   import org.springframework.boot.SpringApplication;  
   import org.springframework.boot.autoconfigure.SpringBootApplication;  
   

@@ -1,4 +1,4 @@
-package com.zhisland.swagger;
+package com.glinsoft.swagger;
 
 import org.springframework.context.annotation.Import;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
