@@ -93,7 +93,7 @@
     /api-doc.html
    
    
-  三、看一下[示例程序](http://192.168.2.101:82/gaoguanglin/pyramid)
+  
 ===
 
 
