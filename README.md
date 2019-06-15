@@ -7,7 +7,7 @@
   1、创建SpringBoot项目，在pom.xml添加依赖  
   ````
   <dependency>  
-  	<groupId>com.zhisland</groupId>  
+  	<groupId>com.github.glinsoft</groupId>  
   	<artifactId>spring-boot-swagger</artifactId>  
   	<version>1.2.4</version>  
   </dependency>   
