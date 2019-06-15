@@ -48,15 +48,15 @@
         </snapshotRepository>
     </distributionManagement>
     <scm>
-        <url>https://github.com/glinsoft/thetis-cache</url>
-        <connection>https://github.com/glinsoft/thetis-cache.git</connection>
-        <developerConnection>https://github.com/glinsoft/thetis-cache</developerConnection>
+        <url>https://github.com/glinsoft/spring-boot-swagger</url>
+        <connection>https://github.com/glinsoft/spring-boot-swagger.git</connection>
+        <developerConnection>https://github.com/glinsoft/spring-boot-swagger</developerConnection>
     </scm>
     <developers>
         <developer>
             <name>高广林</name>
             <email>guanglingao@yeah.net</email>
-            <url>https://github.com/glinsoft/thetis-cache</url>
+            <url>https://github.com/glinsoft/spring-boot-swagger</url>
         </developer>
     </developers>
 
